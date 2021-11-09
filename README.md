@@ -3,6 +3,7 @@
  - [Ссылка](https://codeby.net/threads/universalnyj-obxod-ssl-pinning-dlja-android-prilozhenij.68902/) на перевод
  - [Оригинал](https://infosecwriteups.com/hail-frida-the-universal-ssl-pinning-bypass-for-android-e9e1d733d29) на английском
 
+>Только для ознакомления.
 
 Привет всем, в этой статье, я объясню как обойти SSL pinning для андроид приложений используя Frida Framework. Я попытаюсь объяснить все в деталях,четко и понятно.
 
