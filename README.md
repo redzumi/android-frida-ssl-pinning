@@ -80,6 +80,7 @@ pip install frida-tools
 ##### III. adb:
 
 Скачать platform-tools для windows можно [здесь](https://dl.google.com/android/repository/platform-tools-latest-windows.zip).
+
 ![ADB folder](images/adb.png)
 
 ##### IV. Скачать скрипт инжекта:
